@@ -13,7 +13,7 @@
   height: 600px;
   border-radius: 17px;
   margin-top: 10px;
-  background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0)100%),
+  background-image:linear-gradient(150deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
   url('../images/Banner Image.png');
   background-repeat: no-repeat;
   background-size: contain;
@@ -23,6 +23,7 @@
   justify-content: center;
 
 }
+
 .discount{
   margin: 120px auto ;
   width: 1600px;
