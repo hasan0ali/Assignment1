@@ -120,3 +120,39 @@
   height: 465px;
   margin-top: 65px;
 }
+
+
+/*----------party-timing-------*/
+
+
+
+.party-timing{
+  text-align: center;
+  background-size: contain;
+  background-color: bisque;
+  width: 1300px;
+  height: 300px;
+  border-radius: 15px;
+  margin-top: 120px;
+  margin-top: 60px;
+  font-size: 20px;
+ 
+
+}
+span{
+  color: #F00;
+}
+.party-timing button{
+  background-color: #F00;
+  border: none;
+  color: #FFF;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+ 
+}
